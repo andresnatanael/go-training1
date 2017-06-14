@@ -1,1 +1,1 @@
-# go-training1
+# Curso Go - Clase 1
